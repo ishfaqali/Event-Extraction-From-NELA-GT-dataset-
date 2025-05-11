@@ -1,7 +1,7 @@
 # Event-Extraction-From-NELA-GT-dataset-
 # Crisis Misinformation Analysis Framework
 
-[![CI Status](https://github.com/yourusername/crisis-misinformation-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/crisis-misinformation-analysis/actions)
+[![CI Status](https://github.com/ishfaqali/crisis-misinformation-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/crisis-misinformation-analysis/actions)
 
 A pipeline for identifying high-impact socio-political events from news datasets using:
 - NELA-GT datasets (2015-2023)
